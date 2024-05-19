@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tropikalis
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning front end and back end
-- 💞️ I’m looking to collaborate on our new project
+- 💞️ I’m looking to collaborate on our new web project
 - 📫 How to reach me desertukas@yahoo.com
 - 😄 Pronouns: positive people
 - - ⚡ Fun fact: ...
